@@ -1,5 +1,9 @@
 # DEMAU: Decompose, Explore, Model and Analyze Uncertainties
 
+DEMAU is an open-source Python software for educational, exploratory and
+analytical purposes allowing to visualize and explore several types of uncertainty
+for classification models in machine learning.  
+
 <img src="figures/demau.png" alt="drawing" width="600"/>  
 
 ## Reference
