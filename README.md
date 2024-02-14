@@ -30,11 +30,11 @@ If you are familiar with Python and want to customize DEMAU, you can directly ru
 
 ### Run DEMAU
 
-Run __main.py__ through your Python interpreter
+Run __main.py__ through your Python interpreter.
 
 #### Prerequisites
 
-You might have to install the following dpeendencies:  
+You might have to install the following dependencies:  
 You can use _pip_ to install the libraries.
 
 ```pip3 install -r requirements.txt```
