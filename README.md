@@ -17,6 +17,7 @@ Simply run __DEMAU.linux__ file.
 
 ### Windows
 
+(Not yet ready, pleasy follow "Python run")  
 Run __DEMAU.exe__ on for Windows OS.
 
 ## Python run
@@ -30,13 +31,9 @@ Run __main.py__ through your Python interpreter
 #### Prerequisites
 
 You might have to install the following dpeendencies:  
--Matplotlib  
--Sklearn  
--PySimpleGUI  
--Pandas  
--NumPy  
-
 You can use _pip_ to install the libraries.
+
+```pip3 install -r requirements.txt```
 
 ## Tutorial video
 
