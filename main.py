@@ -11,7 +11,7 @@ from sklearn.decomposition import TruncatedSVD
 from sklearn.manifold import TSNE
 from scipy.optimize import minimize_scalar
 
-import PySimpleGUI as sg
+import lib.PySimpleGUI as sg
 from matplotlib.colors import ListedColormap
 from lib.eknn_imperfect import EKNN
 from lib.utils import noise_imprecision

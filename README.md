@@ -12,7 +12,8 @@ If you simply want to run DEMAU on your datasets, please follow the steps below.
 
 ### Linux
 
-Simply run __DEMAU.linux__ file (not _DEMAU.exe_).
+Download [DEMAU_linux](https://www.dropbox.com/scl/fi/awmggk003fuu8yjl7nq31/DEMAU_linux.zip?rlkey=75zc0j9nf17blffchuai7h9k1&dl=0)  
+Simply run __DEMAU.linux__ file.
 
 ### Windows
 
@@ -20,7 +21,7 @@ Run __DEMAU.exe__ on for Windows OS.
 
 ## Python run
 
-If you are familiar with Python and want to customize DEMAU, you can directly run the python script.
+If you are familiar with Python and want to customize DEMAU, you can directly run the python script from this.
 
 ### Run DEMAU
 
