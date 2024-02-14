@@ -41,14 +41,8 @@ You can use _pip_ to install the libraries.
 
 ## Machine learing models uncertainty
 
-<img src="figures/knn.png" alt="drawing" width="200"/> 
-<img src="figures/naivebayes.png" alt="drawing" width="200"/> 
-<img src="figures/svm.png" alt="drawing" width="200"/> 
-<img src="figures/rf.png" alt="drawing" width="200"/> 
+<img src="figures/knn.png" alt="drawing" width="200"/><img src="figures/naivebayes.png" alt="drawing" width="200"/><img src="figures/svm.png" alt="drawing" width="200"/><img src="figures/rf.png" alt="drawing" width="200"/> 
 
 ## Uncertainty decomposition
 
-<img src="figures/toy.png" alt="drawing" width="200"/> 
-<img src="figures/aleatoric.png" alt="drawing" width="200"/> 
-<img src="figures/epistemic.png" alt="drawing" width="200"/> 
-<img src="figures/nonspe.png" alt="drawing" width="200"/> 
+<img src="figures/toy.png" alt="drawing" width="200"/><img src="figures/aleatoric.png" alt="drawing" width="200"/><img src="figures/epistemic.png" alt="drawing" width="200"/><img src="figures/nonspe.png" alt="drawing" width="200"/> 
