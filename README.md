@@ -21,7 +21,7 @@ Simply run __DEMAU.linux__ file.
 
 ### Windows
 
-(Not yet ready, pleasy follow "Python run")  
+Download [DEMAU_windows](https://www.dropbox.com/scl/fi/wsu7hufuroukgd3m71ovs/DEMAU.zip?rlkey=3palpjt6vd4c3sedx478iuv7z&dl=0)  
 Run __DEMAU.exe__ on for Windows OS.
 
 ## Python run
