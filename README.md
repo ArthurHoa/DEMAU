@@ -41,6 +41,8 @@ You can use _pip_ to install the libraries.
 
 ## Tutorial video
 
+[![DEMAU Tuto](https://img.youtube.com/vi/2xHwqlJJTm4/0.jpg)](https://www.youtube.com/watch?v=2xHwqlJJTm4)
+
 ## Machine learing models uncertainty
 
 <img src="figures/knn.png" alt="drawing" width="200"/><img src="figures/naivebayes.png" alt="drawing" width="200"/><img src="figures/svm.png" alt="drawing" width="200"/><img src="figures/rf.png" alt="drawing" width="200"/> 
