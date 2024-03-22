@@ -8,7 +8,7 @@ for classification models in machine learning.
 
 ## Reference
 
-Arthur H, Vincent L. (2024) DEMAU: Decompose, Explore, Model and Analyze Uncertainties.
+Hoarau A., Lemaire V. (2024) DEMAU: Decompose, Explore, Model and Analyze Uncertainties.
 
 ## Simple run
 
