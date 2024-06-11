@@ -6,9 +6,9 @@ for classification models in machine learning.
 
 <img src="figures/demau.png" alt="drawing" width="600"/>  
 
-## Reference
+<!---## Reference
 
-Hoarau A., Lemaire V. (2024) DEMAU: Decompose, Explore, Model and Analyze Uncertainties.
+Hoarau A., Lemaire V. (2024) DEMAU: Decompose, Explore, Model and Analyze Uncertainties.-->
 
 ## Simple run
 
@@ -39,9 +39,9 @@ You can use _pip_ to install the libraries.
 
 ```pip3 install -r requirements.txt```
 
-## Tutorial video
+<!---## Tutorial video
 
-[![DEMAU Tuto](https://img.youtube.com/vi/2xHwqlJJTm4/0.jpg)](https://www.youtube.com/watch?v=2xHwqlJJTm4)
+[![DEMAU Tuto](https://img.youtube.com/vi/2xHwqlJJTm4/0.jpg)](https://www.youtube.com/watch?v=2xHwqlJJTm4)-->
 
 ## Machine learing models uncertainty
 
